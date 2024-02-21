@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(0, 0%, 8%)
+}
+
+main {
+    background-color: hsl(0, 0%, 12%);
+}
+
+#user-links {
+    background-color: hsl(0, 0%, 20%);
+}
+
+h1, p, a {
+    color: hsl(0, 0%, 100%);
+}
+
+h4 {
+    color: hsl(75, 94%, 57%);
+}
+
+img {
+    border-radius: 100px;
+}
