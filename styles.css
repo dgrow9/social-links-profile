@@ -31,13 +31,14 @@ main {
 
 img {
     border-radius: 100px;
-    width: 80px;
+    width: 75px;
     margin-bottom: 0;
 }
 
 h1 {
     margin-bottom: 8px;
     margin-top: 20px;
+    font-size: 23px;
 }
 
 h4 {
