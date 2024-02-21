@@ -56,6 +56,7 @@ h4 {
     font-size: 13px;
     margin-top: 0;
     margin-bottom: 20px;
+    font-weight: 300;
 }
 
 
@@ -74,19 +75,21 @@ h4 {
     margin-bottom: 15px;
 }
 
-.links:hover {
-    background-color:hsl(75, 94%, 57%);
-    color:hsl(0, 0%, 8%);
+.links p {
+    font-weight: 600;
 }
 
-.links:hover a {
+.links:hover {
+    background-color:hsl(75, 94%, 57%);
+}
+
+.links:hover p {
     color:hsl(0, 0%, 8%);
 }
 
 a {
     text-decoration: none;
     font-size: 13px;
-    font-weight: 600;
 }
 
 
@@ -96,6 +99,8 @@ h1, p, a {
     color: hsl(0, 0%, 100%);
 }
 
-h1, h4, p {
-    font-weight: 400;
+
+h1, h4 {
+    font-weight: 500;
 }
+
