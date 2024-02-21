@@ -42,13 +42,16 @@ h4 {
     color: hsl(75, 94%, 57%);
     margin-top: 0;
     font-size: 13px;
+    margin-bottom: 20px;
 }
 
 
 /* User Description */
 
-p {
+#user-desc p {
     font-size: 13px;
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 
 
@@ -57,6 +60,7 @@ p {
 #user-links {
     width: 280px;
     text-align: center;
+    margin-top: 0;
 }
 
 .links {
