@@ -64,6 +64,15 @@ p {
     border-radius: 10px;
 }
 
+.links:hover {
+    background-color:hsl(75, 94%, 57%);
+    color:hsl(0, 0%, 8%);
+}
+
+.links:hover a {
+    color:hsl(0, 0%, 8%);
+}
+
 a {
     text-decoration: none;
     font-size: 14px;
