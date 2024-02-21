@@ -42,7 +42,7 @@ h1 {
     font-size: 23px;
 }
 
-h4 {
+h2 {
     color: hsl(75, 94%, 57%);
     margin-top: 0;
     font-size: 13px;
@@ -100,7 +100,7 @@ h1, p, a {
 }
 
 
-h1, h4 {
+h1, h2 {
     font-weight: 500;
 }
 
