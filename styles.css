@@ -109,7 +109,8 @@ h1, h4 {
 
 @media screen and (max-width: 375px) {
     main {
-        width: 280px;
+       /* width: 280px;*/
+        padding: 10px;
     }  
 }
 
