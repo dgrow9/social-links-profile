@@ -34,8 +34,21 @@ img {
     width: 80px;
 }
 
+h1 {
+    margin-bottom: 8px;
+}
+
 h4 {
     color: hsl(75, 94%, 57%);
+    margin-top: 0;
+    font-size: 13px;
+}
+
+
+/* User Description */
+
+p {
+    font-size: 14px;
 }
 
 
@@ -56,10 +69,13 @@ a {
     text-decoration: none;
 }
 
+
+/* Combined */
+
 h1, p, a {
     color: hsl(0, 0%, 100%);
 }
 
-p {
-    font-size: 14px;
+h1, h4, p, a {
+    font-weight: 400;
 }
