@@ -104,3 +104,12 @@ h1, h4 {
     font-weight: 500;
 }
 
+
+/* Mobile Version */
+
+@media screen and (max-width: 375px) {
+    main {
+        width: 280px;
+    }  
+}
+
